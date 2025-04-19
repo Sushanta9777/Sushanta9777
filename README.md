@@ -2,8 +2,8 @@
 - 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning Frontend Web Development
 - 📫 How to reach me smeher9777@gmail.com
-- 😄 Pronouns:
-- ⚡ Fun fact: ...
+- 😄 Pronouns:he/him
+
 
 <!---
 Sushanta9777/Sushanta9777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
